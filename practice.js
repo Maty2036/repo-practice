@@ -1,6 +1,5 @@
-function holaHola() {
-  return 'Hola mundo!'
-}
+let holaHola = () => { return 'Hola mundo!'}
+ 
 
 console.log(holaHola())
 
