@@ -1,1 +1,6 @@
-console.log("hola mundo")
+function holaHola() {
+  return 'Hola mundo!'
+}
+
+console.log(holaHola())
+
